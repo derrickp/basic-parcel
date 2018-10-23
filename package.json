@@ -1,0 +1,14 @@
+{
+  "name": "thing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<dplotsky@juul.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3",
+    "typescript": "^3.1.3"
+  },
+  "scripts": {
+    "parcel": "parcel src/index.html"
+  }
+}

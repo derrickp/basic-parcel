@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA,CAAC,YAAK;AACJ,EAAA,OAAO,CAAC,GAAR,CAAY,gBAAZ;AACD,CAFD","file":"src.77de5100.map","sourceRoot":"../src","sourcesContent":["(() => {\n  console.log(\"ooh, here I am\");\n})();\n"]}
