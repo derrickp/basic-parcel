@@ -81,3 +81,4 @@ typings/
 
 # Output files
 /dist/
+/src/**/*.js
